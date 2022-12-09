@@ -12,10 +12,4 @@
     rgba(43, 88, 118, 1) 0%,
     rgba(78, 67, 118, 1) 100%
   );
-
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
 }
